@@ -7,11 +7,10 @@ This project is an AI-powered multi-agent system that:
 - Summarizes insights
 - Converts them into well-structured, readable blog posts
 
-<div align="center">
+<p align="center">
+  <img src="assets/demo.png" alt="Workflow Preview" width="600"/>
+</p>
 
-![Logo of crewAI](./assets/logo.png)
-
-<div align="left">
 
 ---
 
