@@ -7,6 +7,10 @@ This project is an AI-powered multi-agent system that:
 - Summarizes insights
 - Converts them into well-structured, readable blog posts
 
+<div style="text-align: center;">
+    <img src="./assets/logo.png" alt="Logo" height="300">
+</div>
+
 ---
 
 ## 🔧 Tech Stack
@@ -53,11 +57,11 @@ touch .env
 **Functionality**:
 This YAML file contains configuration used by embedchain to determine:
 
-    -Which model provider to use (e.g., HuggingFace or Ollama)
+- Which model provider to use (e.g., HuggingFace or Ollama)
 
-    -What embedding model to load
+- What embedding model to load
 
-    -Which channel/handle to analyze on YouTube
+- Which channel/handle to analyze on YouTube
 
 ---
 
