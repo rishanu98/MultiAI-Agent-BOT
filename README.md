@@ -43,7 +43,7 @@ conda activate crewai_env
 ### ✅ Step 2: Install All Required Libraries
 
 ```bash
-pip install requirementa.txt
+pip install requirements.txt
 ```
 ---
 ### ✅ Step 3: Create a .env File to Store API Keys
