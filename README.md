@@ -8,9 +8,8 @@ This project is an AI-powered multi-agent system that:
 - Converts them into well-structured, readable blog posts
 
 <p align="center">
-  <img src="assets/demo.png" alt="Workflow Preview" width="600"/>
+  <img src="assets/logo.png" alt="Workflow Preview" width="600"/>
 </p>
-
 
 ---
 
